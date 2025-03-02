@@ -1,0 +1,55 @@
+*
+!*/
+!*.py
+!*.pyi
+!README.md
+!requirements.txt
+!setup.py
+!Pipfile
+!Pipfile.lock
+!pyproject.toml
+!.gitignore
+
+.DS_Store
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+bin
+lib
+include
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage and testing reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+*.cover
+*.py,cover
+
+# Type checking
+.mypy_cache/
+.pyre/
+
+# Miscellaneous backup or swap files
+*~ 
+*.swp

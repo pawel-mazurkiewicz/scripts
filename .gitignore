@@ -9,6 +9,8 @@
 !Pipfile.lock
 !pyproject.toml
 !.gitignore
+infakt_key.key
+infakt_key.pgp
 
 .DS_Store
 

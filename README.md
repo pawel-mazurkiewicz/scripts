@@ -70,6 +70,3 @@ Contributions to this collection of utility scripts are welcome! If you have an 
 
 Please ensure that any new scripts are well-documented and, if applicable, include usage examples.
 
-## License
-
-This project is currently not licensed. Consider adding a license file (e.g., `LICENSE.md`) to define how others can use and contribute to these scripts. Common choices include the MIT License or the Apache License 2.0.
